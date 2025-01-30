@@ -41,7 +41,7 @@ int main() {
     // boneco
     sf::CircleShape boneco(20);
     boneco.setFillColor(sf::Color::Blue);
-    boneco.setPosition(390, 280);
+    boneco.setPosition(400, 300);
     
     // arma
     sf::RectangleShape arma(sf::Vector2f(30, 5));
